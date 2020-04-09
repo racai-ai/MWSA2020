@@ -5,6 +5,8 @@ Each folder contains the files used for the competition. Generally there are the
 
 There are some files which are not actually used but contains some other ideas explored for the task. These either produced worst results or maybe were not completely explored due to lack of time.
 
+Some of the resources used were compressed using bzip2 in order to reduce repository usage. They must be first uncompressed.
+
 common.php
 - used in all php files. Contains the variables DFILE and DTYPE setting the corpus to be used.
 - DTYPE should be first set to train, execute evrything then set to test and re-execute everything

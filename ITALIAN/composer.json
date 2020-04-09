@@ -1,0 +1,8 @@
+{
+	"composer":{
+		"wamania/php-stemmer":"2.0"
+	},
+	"require": {
+		"wamania/php-stemmer": "^2.0"
+	}
+}
